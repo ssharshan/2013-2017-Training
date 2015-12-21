@@ -1,0 +1,15 @@
+Todays 'C' Task:-
+
+Write a program to take input string, and replace the ASCII in place of vowels and print the string.
+
+SAMPLE:- 
+Input  :- Kartheek
+output :- K97rth101101k
+
+
+JAVA Task:-
+
+Java Task: 
+    i)   Create a Student class with properties as sRollNo,sName,sBranch,Marks (internalMarks, externalMarks, credits). 
+    ii)  Create 4 Students with 6 subjects and 2 labs
+    iii) Find the percentage of marks and print in table form with sRollNo, sName, %marks

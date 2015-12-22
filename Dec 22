@@ -1,0 +1,8 @@
+Today's task:
+Write a program to take input string, replace all characters by its next consecutive alphabet.
+Eg: If abc then bcd
+if AcG then BdH
+if ApPlE then BqQmF
+
+
+Another task is to workout on Data Types and Wrapper Classes in JAVA 

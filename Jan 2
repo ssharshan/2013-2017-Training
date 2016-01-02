@@ -1,0 +1,13 @@
+a) Write a program to take 'n' students names, and sort the lengths of strings in ascending order.
+
+
+
+B) Write a program to count no.of vowels for a given string.
+
+
+
+C) Write a program to take input string, and print the substrings which are consecutive
+
+Example:
+Input-acdexpdrstklmu
+Output- cde, rst, klm

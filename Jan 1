@@ -1,0 +1,20 @@
+Today's scenario:
+a) Reading character and integers and how to read strings. 
+  a-z -> 97-122
+  A-Z->65-90
+  0-9 -> 48-56
+  Use above for conversions
+
+
+B) Write a C program to take input string that is combination of integers, alphabets. Print their ascii's .
+
+
+
+C) Write a c program to take input string and convert into upper case and lower case
+
+
+d) Write a c program to take input string and print all the escape characters  and alphabets separately from a given string 
+    Eg:   Le\ndi \and kar\theek
+
+  output: \n \a \t
+  Ledi nd karheek

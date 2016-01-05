@@ -1,0 +1,19 @@
+a) Write a program to take input string and delete vowels from that string and print rest of string.
+
+
+Output-1:
+input- apple, output-ppl
+
+
+b) Write a program to take input string sequence, and reverse the words of sentence. 
+
+Output-2:
+input- he is good boy
+output- eh si doog yob
+
+c) Write a program to take input string and take two input positions. Pick the sub string and reverse in that positions and print complete string.
+
+
+Output-3:
+input- elephant, pos1=3,pos2=5 Then
+output- eleahpnt

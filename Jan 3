@@ -1,0 +1,31 @@
+a) Write a program to take input string and print in alphabetical order. 
+
+Sample output-1:
+input- kartheek
+output- aeehkkrt
+
+
+
+b) Write a program to take array of strings and find out next preceding character  from all strings for a given character. 
+    If character reappeared then find out its next preceding character also
+      Eg: 
+      nancy, nut, nicotine 
+      then Output is- acuie
+
+Sample output-2:
+input-  apple, lamp,flight
+input character- l
+output- eai
+
+
+
+c) Write a program to take input string, and pick all 'n' charactered substring and check whether they are palindromes or not.
+
+input- madam
+input n= 3
+sub strings are: mad,ada,
+dam
+output: ada
+input n=2
+Sub strings are: ma, ad, da,am
+output- no palindromes

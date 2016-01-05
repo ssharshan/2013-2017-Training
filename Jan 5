@@ -1,0 +1,18 @@
+a) Write a program to take input string, and print the frequencies of each character.
+    Output-1:
+        Input-Mississippi 
+        Output-m1i4s4p2
+
+b) Write a program to take input string sequence, and print words in backward direction and reversing them.
+
+    Output-2:
+      Input: He is good boy
+      Output: yob doog si eH
+
+c)Write a program to take input string and remove the consecutive similar characters.
+
+    Output-3:
+      Input: aabccbdbac
+      Output: 
+          bbdbac
+          dbac
